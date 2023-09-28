@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "One_To_One_Relationship", "One_To_One_Relationship\One_To_One_Relationship.csproj", "{ACB926B3-40E6-4122-BE0D-49540078992E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "One_To_Many_RelationShip", "One_To_Many_RelationShip\One_To_Many_RelationShip.csproj", "{A9F60FEF-46A7-4738-82EE-31AD8DE373A3}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Many_To_Many_RelationShip", "Many_To_Many_RelationShip\Many_To_Many_RelationShip.csproj", "{B63628C6-3176-4C92-A216-FF0D3955D3CF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ACB926B3-40E6-4122-BE0D-49540078992E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACB926B3-40E6-4122-BE0D-49540078992E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACB926B3-40E6-4122-BE0D-49540078992E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A9F60FEF-46A7-4738-82EE-31AD8DE373A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9F60FEF-46A7-4738-82EE-31AD8DE373A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9F60FEF-46A7-4738-82EE-31AD8DE373A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B63628C6-3176-4C92-A216-FF0D3955D3CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B63628C6-3176-4C92-A216-FF0D3955D3CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B63628C6-3176-4C92-A216-FF0D3955D3CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B63628C6-3176-4C92-A216-FF0D3955D3CF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F66BF503-021A-4D3E-9BE5-95FD214EC19D}
+	EndGlobalSection
+EndGlobal
